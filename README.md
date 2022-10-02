@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/joaquimsaraiva/" target="_blank > [<img align="left" alt="www.joaquimsaraiva.pt" width="22px" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" />]</a> 
+<a href="https://www.linkedin.com/in/joaquimsaraiva/" target="_blank > <img align="left" alt="www.joaquimsaraiva.pt" width="22px" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" /> </a> 
 
 [<img align="left" alt="Joaquim | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
