@@ -1,4 +1,4 @@
-# Hi there, I'm Joaquim aka JccSweb 👋
+# Hi there, I'm Joaquim 👋
 
 ### Connect with me:
 
