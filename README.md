@@ -4,9 +4,9 @@
 
 [<img align="left" alt="www.joaquimsaraiva.pt" width="22px" src="https://image.flaticon.com/icons/png/512/841/841364.png" />][website]
 
-[<img align="left" alt="Joaquim | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/145/145807.png" />][linkedin]
+[<img align="left" alt="Joaquim | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
-[<img align="left" alt="Joaquim | Codewars" width="22px" src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg" />][codewars]
+
 
 <br>
 
