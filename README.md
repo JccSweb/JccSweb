@@ -35,7 +35,6 @@
   
 <br />
 
-###  My stats:Add commentMore actions
 
 [website]: https://www.joaquimsaraiva.pt
 
