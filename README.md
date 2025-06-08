@@ -36,11 +36,3 @@
   
 <br />
   
-  
-###  My stats:
-
-[website]: https://www.joaquimsaraiva.pt
-
-[linkedin]: https://www.linkedin.com/in/joaquimsaraiva/
-
-[codewars]: https://www.codewars.com/users/JccSweb
