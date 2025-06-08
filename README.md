@@ -39,9 +39,6 @@
   
 ###  My stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JccSweb)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [website]: https://www.joaquimsaraiva.pt
 
 [linkedin]: https://www.linkedin.com/in/joaquimsaraiva/
